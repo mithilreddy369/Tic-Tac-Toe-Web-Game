@@ -140,12 +140,12 @@ h1 {
 
 
 #reset-button {
-    padding: 8px 20px;
-    background-color: #4ca2cd; /* Solid background color */
+    font-size: 1.5rem; /* Increase font size */
+    padding: 1rem 2rem; /* Adjust padding for larger button */    background-color: #4ca2cd; /* Solid background color */
     border-radius: 10px;
     border: none;
     color: #fff;
-    font-size: 1rem;
+    font-size: 1.6rem;
     margin-top: 20px;
     transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
